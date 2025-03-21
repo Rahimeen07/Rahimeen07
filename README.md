@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rahimeen07
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...Next.js|react.js|HTML|CSS| 
+- 🌱 I’m currently learning ... Python|Next.js|react.js|HTML|CSS|
 - 📫 How to reach me ...@rahimeeniqbal2006@gmail.com
 - 😄 Pronouns: ...she/her
 
